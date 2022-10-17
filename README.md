@@ -1,2 +1,1 @@
-# sinevit-JSFE2022Q3
-Private repository for @sinevit
+# Online-zoo https://sinevit.github.io/online-zoo/online-zoo
